@@ -1,0 +1,18 @@
+[submodule "admin-server"]
+	path = admin-server
+	url = https://github.com/pavanrkadave/admin-server.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/pavanrkadave/config-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/pavanrkadave/api-gateway.git
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/pavanrkadave/discovery.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/pavanrkadave/user-service.git
+[submodule "expense-service"]
+	path = expense-service
+	url = https://github.com/pavanrkadave/expense-service.git
